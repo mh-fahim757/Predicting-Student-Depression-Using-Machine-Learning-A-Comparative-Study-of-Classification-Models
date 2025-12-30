@@ -1,5 +1,1 @@
-#Logistic Regression
-logistic_model = LogisticRegression()
-logistic_model.fit(X_train_scaled, y_train)
 
-y_pred = logistic_model.predict(X_test_scaled)
